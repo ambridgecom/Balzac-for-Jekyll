@@ -1,8 +1,8 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Insouciant.
+title:            Ambridgecom
+tagline:          Amass Bridge & Combine
+description:      A clear picture is not the full picture
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+baseurl: /Page
 
 # Owner/author information
 owner:
