@@ -1,33 +1,55 @@
 ---
 layout: post-no-feature
-title: "Image in Post"
-description: "Once when I was six years old I saw a magniﬁcent picture in a book, called
-True Stories from Nature, about the primeval forest."
+title: "Human Dimensions : an Introduction"
+description: "Getting a Clear Picture is not the same thing as getting the Full Picture"
 comments: true
 category: articles
 ---
 
- It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing:
+Getting a Clear Picture is not the same thing as getting the Full Picture. Clarity implies flow, ease, coherence, presenting an entity that is simple and sensible, with just the right amount of substance to feel like there is value and authentic flavour in what is being ingested, but no trouble once it gets digested. It pleases the brain as it follows our instinct to use our cognitive resources with great parsimony.
+
  
- ![Drawing A]({{ site.url }}/images/money.jpg)
+
+Yet, it is not the Full Picture.
+
  
- In the book it said: “Boa constrictors swallow their prey whole, without
-chewing it. After that they are not able to move, and they sleep through the
-six months that they need for digestion.”
 
-I pondered deeply, then, over the adventures of the jungle. And after some
-work with a colored pencil I succeeded in making my ﬁrst drawing. 
-My Drawing Number One. It looked like this:
+The Full Picture is complex, conflicting, paradoxical, irrational and on its best day, half of it makes sense. It is also far richer and intriguing, and looking deeper into it, it may reveal a coherence that is hardly visible to the naked eye. It may please the brain as it follows our appetite for knowledge and understanding in its most demanding dimension.
 
-![Drawing Number One]({{ site.url }}/images/sticker-mule.jpg)
+But it is always the Clear Picture that gets the spotlight, even though its more nebulous twin is of equal importance.
 
-I showed my masterpiece to the grown-ups, and asked them whether the
-drawing frightened them.
+ 
 
-But they answered: “Frighten? Why should any one be frightened by a
-hat?”
+So, when looking at a specific object of study, say, an Individual, both Pictures matter. And here more specifically, we shall consider a way to close on that Full Picture as much as we can. So the following model gathers the many perspective, domains and disciplines that can be used when looking at a situation involving humans. This collection is by no mean exhaustive, but it gives a nice large panorama.
+ 
+ ![Human Dimensions Diagram]({{ site.baseurl }}/images/Presentation1.jpg)
 
-My drawing was not a picture of a hat. It was a picture of a boa constrictor
-digesting an elephant. But since the grown-ups were not able to understand it,
-I made another drawing: I drew the inside of the boa constrictor, so that the
-grown-ups could see it clearly. They always need to have things explained.
+
+This model involves 16 different angles, separated in 5 categories of 3 and 1 specific angle (collective) that is more specific to what this blog is working on.
+
+ 
+
+The categories are :
+
+   Contextual Dimensions : these encompass the external and environmental factors that consciously or unconsciously influence the individual’s perceptions and behaviours.
+    Social , Cultural , Geographical
+     
+
+   Narrative Dimensions : these encompass the close and distant streams of history that have directly or indirectly shaped the individual to this point.
+    Historical , Genealogical , Familial
+     
+
+   Biological Dimensions : these encompass the structure of the individual’s body and brain along with all the bio-chemical processes that run through them.
+    Genetic , Physical , Neurological.
+     
+
+   Internal Dimensions : these encompass the psychological structure and processes of the individual’s psyche.
+    Cognitive , Affective , Symbolic
+     
+
+   Interactional Dimensions: these encompass the verbal and non-verbal communication that the individual has with their peers.
+    Linguistic , Interpersonal , Groupal
+
+ 
+
+We shall review each category one by one later on.
