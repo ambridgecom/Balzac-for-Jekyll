@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Ambridgecom
+tagline:          Amass Bridge & Combine
+description:      A clear picture is not the full picture
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  name:           Baptiste Marescaux
+  avatar:         
+  bio:            
+  email:          ambridgecom@hotmail.com
+  twitter:        
+  github:         
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       
   # Plug in your disqus shortname!
 
 tools:
@@ -28,6 +28,7 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  baseurl: /page
   - title: About
     url: /about
   - title: Github
